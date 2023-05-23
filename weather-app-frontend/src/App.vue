@@ -130,7 +130,7 @@
                 ></v-slider>
               </div>
 
-              <div class="d-flex flex-column align-center justify-center bg-grey-lighten-4 pa-1">
+              <div class="d-flex flex-column align-center justify-center bg-grey-lighten-4 pa-2">
                 <v-btn-toggle
                   v-model="selectedDay"
                   color="primary"
